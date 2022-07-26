@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/octocat-approved-lightgrey">
   <img src="https://img.shields.io/badge/memes-included-yellow">
 </p>
+<p align="center">Repository information</p>
+<p align="center">
+  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/AlphaGameDeveloper/Hydra">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/AlphaGameDeveloper/Hydra">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/AlphaGameDeveloper/Hydra">
+</p>
+  
 <h1>Hydra</h1>
 Encryption, hashing, checksums, hash cracker, and more!
 <h2>How do I use this?</h2>
