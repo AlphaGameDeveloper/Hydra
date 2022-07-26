@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/dependencies-recent-brightgreen">
   <img src="https://img.shields.io/badge/Python-3.8%2B-yellow">
   <img src="https://img.shields.io/badge/pyinstaller-5.2-yellow">
-  <img src="https://img.shields.io/badge/Uses-cryptography-brightgreen">
+  <img src="https://img.shields.io/badge/uses-cryptography-brightgreen">
   <img src="https://img.shields.io/badge/compiled%20for-windows-blue">
   <img src="https://img.shields.io/badge/debian%20linux-pending-orange">
   <img src="https://img.shields.io/badge/macos-not%20planned-red">
