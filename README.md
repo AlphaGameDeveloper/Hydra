@@ -33,3 +33,4 @@ ConfigGen, as stated above is a config generator for Hydra.  It is a seperate ex
 <h1>When will it be released?</h1>
 Soon.  (In the next 2 weeks to 1 month.)<br>
 <b>I do not want to release the first build with half working or unused stuff in it.</b>
+<i>11/24/22: Yeah, I really blew past that deadline ._.</i>
